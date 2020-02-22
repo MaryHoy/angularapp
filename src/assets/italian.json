@@ -1,52 +1,51 @@
-
 [
   {
-    "label": "What is Man in Spanish?",
+    "label": "What is Car in Italian?",
     "choices": [
       {
-        "value": "Dude",
+        "value": "Carro",
         "correct": false
       },
       {
-        "value": "Hombre",
+        "value": "Auto",
         "correct": true
       },
       {
-        "value": "Homem",
+        "value": "Bil",
         "correct": false
       },
       {
-        "value": "Vir",
+        "value": "Araba",
         "correct": false
       }
     ]
   },
   {
-    "label": "What is Lady in Spanish?",
+    "label": "What is Baby in Italian?",
     "choices": [
       {
-        "value": "Dame",
+        "value": "Bebek",
         "correct": false
       },
       {
-        "value": "Dama",
+        "value": "Babi",
         "correct": false
       },
       {
-        "value": "La Señora",
+        "value": "Bambino",
         "correct": true
       },
       {
-        "value": "Senhora",
+        "value": "Bebê",
         "correct": false
       }
     ]
   },
   {
-    "label": "What is Hello in Spanish?",
+    "label": "What is Hello in Italian?",
     "choices": [
       {
-        "value": "Hola",
+        "value": "Ciao",
         "correct": true
       },
       {
@@ -54,53 +53,53 @@
         "correct": false
       },
       {
-        "value": "Howdy",
+        "value": "Witaj",
         "correct": false
       },
       {
-        "value": "Hallo",
+        "value": "Kon'nichiwa",
         "correct": false
       }
     ]
   },
   {
-    "label": "What is Snake in Spanish?",
+    "label": "What is Bottle in Italian?",
     "choices": [
       {
-        "value": "Schlange",
+        "value": "Butelka",
         "correct": false
       },
       {
-        "value": "Orm",
+        "value": "Flasche",
         "correct": false
       },
       {
-        "value": "Danger Noodle",
+        "value": "Sticla",
         "correct": false
       },
       {
-        "value": "Serpiente",
+        "value": "Bottiglia",
         "correct": true
       }
     ]
   },
   {
-    "label": "What is Goodbye in Spanish?",
+    "label": "What is Plane in Italian?",
     "choices": [
       {
-        "value": "Tchau",
+        "value": "Avião",
         "correct": false
       },
       {
-        "value": "Adios",
+        "value": "Aereo",
         "correct": true
       },
       {
-        "value": "Auf Wiedersehen",
+        "value": "Avion",
         "correct": false
       },
       {
-        "value": "Later",
+        "value": "Flugzeug",
         "correct": false
       }
     ]

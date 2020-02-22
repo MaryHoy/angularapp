@@ -1,52 +1,30 @@
-
 [
   {
-    "label": "What is Man in Spanish?",
+    "label": "What is Hello in French?",
     "choices": [
       {
-        "value": "Dude",
+        "value": "Au revoir",
         "correct": false
       },
       {
-        "value": "Hombre",
+        "value": "Bonjour",
         "correct": true
       },
       {
-        "value": "Homem",
+        "value": "Tant pis",
         "correct": false
       },
       {
-        "value": "Vir",
+        "value": "Salut!",
         "correct": false
       }
     ]
   },
   {
-    "label": "What is Lady in Spanish?",
+    "label": "What is Goodbye in French?",
     "choices": [
       {
-        "value": "Dame",
-        "correct": false
-      },
-      {
-        "value": "Dama",
-        "correct": false
-      },
-      {
-        "value": "La Señora",
-        "correct": true
-      },
-      {
-        "value": "Senhora",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "label": "What is Hello in Spanish?",
-    "choices": [
-      {
-        "value": "Hola",
+        "value": "Au revoir",
         "correct": true
       },
       {
@@ -54,53 +32,74 @@
         "correct": false
       },
       {
-        "value": "Howdy",
+        "value": "Tant pis",
         "correct": false
       },
       {
-        "value": "Hallo",
+        "value": "Salut!",
         "correct": false
       }
     ]
   },
   {
-    "label": "What is Snake in Spanish?",
+    "label": "What is House in French?",
     "choices": [
       {
-        "value": "Schlange",
+        "value": "Maison",
+        "correct": true
+      },
+      {
+        "value": "Dom",
         "correct": false
       },
       {
-        "value": "Orm",
+        "value": "Haus",
         "correct": false
       },
       {
-        "value": "Danger Noodle",
+        "value": "Hus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Window in French?",
+    "choices": [
+      {
+        "value": "Venster",
         "correct": false
       },
       {
-        "value": "Serpiente",
+        "value": "Fenster",
+        "correct": false
+      },
+      {
+        "value": "Vindu",
+        "correct": false
+      },
+      {
+        "value": "Fenêtre",
         "correct": true
       }
     ]
   },
   {
-    "label": "What is Goodbye in Spanish?",
+    "label": "What is Dog in French?",
     "choices": [
       {
-        "value": "Tchau",
+        "value": "Pooch",
         "correct": false
       },
       {
-        "value": "Adios",
+        "value": "Chien",
         "correct": true
       },
       {
-        "value": "Auf Wiedersehen",
+        "value": "Hund",
         "correct": false
       },
       {
-        "value": "Later",
+        "value": "Perro",
         "correct": false
       }
     ]
