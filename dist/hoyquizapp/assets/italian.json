@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is Car in Italian?",
+    "choices": [
+      {
+        "value": "Carro",
+        "correct": false
+      },
+      {
+        "value": "Auto",
+        "correct": true
+      },
+      {
+        "value": "Bil",
+        "correct": false
+      },
+      {
+        "value": "Araba",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Baby in Italian?",
+    "choices": [
+      {
+        "value": "Bebek",
+        "correct": false
+      },
+      {
+        "value": "Babi",
+        "correct": false
+      },
+      {
+        "value": "Bambino",
+        "correct": true
+      },
+      {
+        "value": "Bebê",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Hello in Italian?",
+    "choices": [
+      {
+        "value": "Ciao",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "Witaj",
+        "correct": false
+      },
+      {
+        "value": "Kon'nichiwa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Bottle in Italian?",
+    "choices": [
+      {
+        "value": "Butelka",
+        "correct": false
+      },
+      {
+        "value": "Flasche",
+        "correct": false
+      },
+      {
+        "value": "Sticla",
+        "correct": false
+      },
+      {
+        "value": "Bottiglia",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is Plane in Italian?",
+    "choices": [
+      {
+        "value": "Avião",
+        "correct": false
+      },
+      {
+        "value": "Aereo",
+        "correct": true
+      },
+      {
+        "value": "Avion",
+        "correct": false
+      },
+      {
+        "value": "Flugzeug",
+        "correct": false
+      }
+    ]
+  }
+]
