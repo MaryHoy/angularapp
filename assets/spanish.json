@@ -1,0 +1,108 @@
+
+[
+  {
+    "label": "What is Man in Spanish?",
+    "choices": [
+      {
+        "value": "Dude",
+        "correct": false
+      },
+      {
+        "value": "Hombre",
+        "correct": true
+      },
+      {
+        "value": "Homem",
+        "correct": false
+      },
+      {
+        "value": "Vir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Lady in Spanish?",
+    "choices": [
+      {
+        "value": "Dame",
+        "correct": false
+      },
+      {
+        "value": "Dama",
+        "correct": false
+      },
+      {
+        "value": "La Señora",
+        "correct": true
+      },
+      {
+        "value": "Senhora",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Hello in Spanish?",
+    "choices": [
+      {
+        "value": "Hola",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "Howdy",
+        "correct": false
+      },
+      {
+        "value": "Hallo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Snake in Spanish?",
+    "choices": [
+      {
+        "value": "Schlange",
+        "correct": false
+      },
+      {
+        "value": "Orm",
+        "correct": false
+      },
+      {
+        "value": "Danger Noodle",
+        "correct": false
+      },
+      {
+        "value": "Serpiente",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is Goodbye in Spanish?",
+    "choices": [
+      {
+        "value": "Tchau",
+        "correct": false
+      },
+      {
+        "value": "Adios",
+        "correct": true
+      },
+      {
+        "value": "Auf Wiedersehen",
+        "correct": false
+      },
+      {
+        "value": "Later",
+        "correct": false
+      }
+    ]
+  }
+]

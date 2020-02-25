@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is Hello in French?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": false
+      },
+      {
+        "value": "Bonjour",
+        "correct": true
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Goodbye in French?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is House in French?",
+    "choices": [
+      {
+        "value": "Maison",
+        "correct": true
+      },
+      {
+        "value": "Dom",
+        "correct": false
+      },
+      {
+        "value": "Haus",
+        "correct": false
+      },
+      {
+        "value": "Hus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Window in French?",
+    "choices": [
+      {
+        "value": "Venster",
+        "correct": false
+      },
+      {
+        "value": "Fenster",
+        "correct": false
+      },
+      {
+        "value": "Vindu",
+        "correct": false
+      },
+      {
+        "value": "Fenêtre",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is Dog in French?",
+    "choices": [
+      {
+        "value": "Pooch",
+        "correct": false
+      },
+      {
+        "value": "Chien",
+        "correct": true
+      },
+      {
+        "value": "Hund",
+        "correct": false
+      },
+      {
+        "value": "Perro",
+        "correct": false
+      }
+    ]
+  }
+]
